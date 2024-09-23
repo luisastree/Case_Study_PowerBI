@@ -3,4 +3,4 @@ En este dashboard se incluyen dos tarjetas para visualizar de manera rapida y se
 Tambien se incluyen graficas para identificar ventas por estado, por categoria y por segmento.
 
 Por ultimo se agrega una hoja mas para describir el detalle de venta en una visualizacion de mapa
-Ambas hojas cuentan con filtro de estado y pasis
+Ambas hojas cuentan con filtro de estado y pais
